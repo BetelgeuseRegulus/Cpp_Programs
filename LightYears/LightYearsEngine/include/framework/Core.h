@@ -1,8 +1,9 @@
 #include <cstdio>
 #include <memory>
+#include <map>
 #include <vector>
 #include <unordered_map>
-#include <map>
+#include <unordered_set>
 
 namespace LightYears
 {
@@ -24,6 +25,12 @@ namespace LightYears
     template <typename keyType, typename valType, typename hasher = std::hash<keyType>>
     using Dictionary = std::unordered_map<keyType, valType, hasher>;
 
+    template <typename T>
+    using Set = std::unordered_set<T>;
+
+    using uint8 = unsigned char;
+
 // A marco
-#define LOG(M, ...) printf(M "\n", ##__VA_ARGS__) // ##__VA_ARGS__ 是 token-pasting operator（粘贴操作符), 当可变操作为空时, 自动去掉前面的','符号.
+// ##__VA_ARGS__ 是 token-pasting operator（粘贴操作符), 当可变操作为空时, 自动去掉前面的','符号.
+#define LOG(M, ...) printf(M "\n", ##__VA_ARGS__)
 }

@@ -1,0 +1,14 @@
+# Target labels
+ box2d-populate
+# Source files and their labels
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/CMakeFiles/box2d-populate
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/CMakeFiles/box2d-populate.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/CMakeFiles/box2d-populate-complete.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-build.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-configure.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-download.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-install.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-mkdir.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-patch.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-test.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-update.rule

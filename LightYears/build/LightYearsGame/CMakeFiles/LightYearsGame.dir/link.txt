@@ -1,0 +1,3 @@
+C:\MinGW\MinGW-14.0.2\bin\cmake.exe -E rm -f CMakeFiles\LightYearsGame.dir/objects.a
+C:\MinGW\MinGW-8.5.0\bin\ar.exe qc CMakeFiles\LightYearsGame.dir/objects.a @CMakeFiles\LightYearsGame.dir\objects1.rsp
+C:\MinGW\MinGW-8.5.0\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\LightYearsGame.dir/objects.a -Wl,--no-whole-archive -o LightYearsGame.exe -Wl,--out-implib,libLightYearsGame.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\LightYearsGame.dir\linkLibs.rsp

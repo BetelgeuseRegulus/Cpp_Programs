@@ -1,0 +1,1 @@
+-I"E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-src/include" -I"E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-src/src" -I"E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-src/extlibs/headers/vulkan" -isystem "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-src/extlibs/headers/glad/include"

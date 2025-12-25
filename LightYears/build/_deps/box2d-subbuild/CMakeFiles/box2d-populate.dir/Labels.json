@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/CMakeFiles/box2d-populate"
+		},
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/CMakeFiles/box2d-populate.rule"
+		},
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/CMakeFiles/box2d-populate-complete.rule"
+		},
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-build.rule"
+		},
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-configure.rule"
+		},
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-download.rule"
+		},
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-install.rule"
+		},
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-mkdir.rule"
+		},
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-patch.rule"
+		},
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-test.rule"
+		},
+		{
+			"file" : "E:/c_plus_plus/C++/cpp_lightYear/build/_deps/box2d-subbuild/box2d-populate-prefix/src/box2d-populate-stamp/box2d-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"box2d-populate"
+		],
+		"name" : "box2d-populate"
+	}
+}

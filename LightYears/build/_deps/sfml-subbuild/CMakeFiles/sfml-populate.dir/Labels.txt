@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test.rule
+E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update.rule

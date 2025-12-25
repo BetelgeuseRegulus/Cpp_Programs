@@ -1,0 +1,31 @@
+_deps/sfml-build/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj: \
+ E:\c_plus_plus\C++\cpp_lightYear\build\_deps\sfml-src\src\SFML\System\MemoryInputStream.cpp \
+ E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-src/include/SFML/System/MemoryInputStream.hpp \
+ E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-src/include/SFML/Config.hpp \
+ E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-src/include/SFML/System/InputStream.hpp \
+ E:/c_plus_plus/C++/cpp_lightYear/build/_deps/sfml-src/include/SFML/System/Export.hpp \
+ c:\mingw\mingw-8.5.0\include\c++\8.5.0\cstdlib \
+ c:\mingw\mingw-8.5.0\include\c++\8.5.0\x86_64-w64-mingw32\bits\c++config.h \
+ c:\mingw\mingw-8.5.0\include\c++\8.5.0\x86_64-w64-mingw32\bits\os_defines.h \
+ c:\mingw\mingw-8.5.0\include\c++\8.5.0\x86_64-w64-mingw32\bits\cpu_defines.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\stdlib.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\corecrt.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\_mingw.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\_mingw_mac.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\_mingw_secapi.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\vadefs.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\sdks/_mingw_ddk.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\corecrt_wstdlib.h \
+ c:\mingw\mingw-8.5.0\lib\gcc\x86_64-w64-mingw32\8.5.0\include-fixed\limits.h \
+ c:\mingw\mingw-8.5.0\lib\gcc\x86_64-w64-mingw32\8.5.0\include-fixed\syslimits.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\limits.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\crtdefs.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\sec_api\stdlib_s.h \
+ c:\mingw\mingw-8.5.0\include\c++\8.5.0\stdlib.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\malloc.h \
+ c:\mingw\mingw-8.5.0\lib\gcc\x86_64-w64-mingw32\8.5.0\include\mm_malloc.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\errno.h \
+ c:\mingw\mingw-8.5.0\include\c++\8.5.0\bits\std_abs.h \
+ c:\mingw\mingw-8.5.0\include\c++\8.5.0\cstring \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\string.h \
+ c:\mingw\mingw-8.5.0\x86_64-w64-mingw32\include\sec_api\string_s.h
